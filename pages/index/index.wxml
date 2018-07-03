@@ -1,0 +1,1 @@
+<canvas bindtap="playGame" style="width: 410px; height: 650px;" canvas-id="firstCanvas"></canvas>
